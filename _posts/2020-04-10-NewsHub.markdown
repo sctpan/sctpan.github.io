@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2020-04-10
+img: newshub.jpg
+alt: NewsHub
+video: https://www.youtube.com/embed/dU3M0_B5lB4
+github: https://github.com/sctpan/NewsHub
+description: <h3>Summary</h3><p>This is a course project of USC 2020 Spring CSCI-571. </p><p>This full-stack web application uses open APIs to display top headlines for both New York Times and Guardian News. Based on the selection by the user, the top-headlines could be for the following domains – world, politics, business, technology and sports. Each article can be shared by the user on Facebook, Twitter or via Email.</p><p>The user can open up any of the article and have the option to share it on either Facebook or Twitter or via Email. For each article, after expanding, the user can even add comments on the articles if they like. The user can also search for any keyword to read articles about any topic of his/her choice with autosuggestions available for his/her search query.</p><p>This website uses responsive design, so it has different views for both desktop and mobile devices.</p><h3>Technical Stack</h3><ul><li>Front-end - <strong>React, React-Bootstrap</strong></li><li>Back-end - <strong>Node.js, Express.js</strong></li></ul>
+
+---

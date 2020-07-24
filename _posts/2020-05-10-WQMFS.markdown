@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 2020-05-10
+img: water.jpg
+alt: WQMFS
+video: https://www.youtube.com/embed/bjhqP7fNu5Q
+github: https://github.com/sctpan/WQMFS
+description: <h3>Summary</h3><p>This is a full stack web application which uses machine learning algorithms to predict future water quality.</p><p>It has following features:</p><ul><li>User could perform CRUD operations on history water quality data</li><li>User could generate interactive line charts in real time to present water quality trend</li><li>User could train and save multiple machine learning models including LSTM, BP, SVR, Adaboost.</li><li>User could use trained model to predict future water quality</li></ul><h3>Technical Stack</h3><ul><li>Front end - <strong>Vue.js, iview, Echarts</strong></li><li>Back end - <strong>SpringBoot, Spring Security, Spring Data JPA</strong></li><li>Machine Learning Module - <strong>Django, Keras</strong></li></ul>
+
+---

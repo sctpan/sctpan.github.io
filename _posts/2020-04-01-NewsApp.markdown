@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+date: 2020-04-01
+img: global.jpg
+alt: NewsApp
+video: https://www.youtube.com/embed/z-vobGzbRB4
+github: https://github.com/sctpan/NewsApp
+description: <h3>Summary</h3><p>This is a course project of USC 2020 Spring CSCI-571</p><p>This ios app uses the same back end of <a href='https://github.com/sctpan/NewsHub'>homework 8</a> and it has almost every feature of the web application.</p><h3>Technical Stack</h3><p>Swift, StoryBoard</p>
+
+---
